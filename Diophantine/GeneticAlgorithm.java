@@ -1,5 +1,11 @@
 import java.util.Random;
 
+//This is the main class
+
+/*
+* This program solves the problem of Diophantine equation, finding integers a,b,c,d such that
+* 1*a + 2*b + 3*c + 4*d = target, where target can be any integer.
+*/
 
 public class GeneticAlgorithm {
     Population population = new Population();
