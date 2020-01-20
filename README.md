@@ -1,5 +1,4 @@
-# GeneticProgramming
+# Genetic Programming Summer Internship 2019
 
-Summer Internship 2019.
 
-Using Genetic programming and Genetic algorithms solve different problems.
+Solution of different problems using Genetic algorithms and Genetic programming.
