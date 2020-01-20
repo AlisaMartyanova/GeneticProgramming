@@ -1,5 +1,11 @@
 import java.util.Random;
 
+/*
+* This program creates an expression to get some target number.
+* For instance: to get 30 we can create the following expressions: 
+* 3*10 or (2+3)*6
+*/
+
 public class GeneticProgramming {
 
     Population population = new Population();
